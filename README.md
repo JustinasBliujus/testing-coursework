@@ -4,15 +4,15 @@ This repository contains a few testing assignments using **Python**, with tools 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
-- `testing_1.py` → Unit tests on personal code (Task 1)  
+- `testing_1.py` → Unit tests on personal code from another subject `AI1.py`(Task 1)  
 - `testing_2.py` → Selenium script to fill out a web form (Task 2)  
 - `testing_3_1.py` → Test for JS alert acceptance and CAPTCHA (Task 3.1)  
 - `testing_3_2.py` → Test for redirect and CAPTCHA on new tab (Task 3.2)  
 - `testing_4.py` → Test for two registration forms with `unittest` (Task 4)  
 - `testing_5.py` → Pytest version of Task 4 using fixtures and class-based tests (Task 5)
-
+- `fuma_free_test_plan.pdf` → Making a testplan for a fictional project (Task 6)
 ---
 
 ## Task Overview
@@ -57,16 +57,11 @@ This repository contains a few testing assignments using **Python**, with tools 
   - Separate browser session for each test.
   - Tests implemented as class methods.
 
+### Task 6 - Brief testplan for a fictional project
+- **Features:**
+  - Following IEEE 829 standard.
+  - The project is about a mobile app for quiting smoking.
 ---
 
-## Technologies Used
-
-- **Python 3**
-- **unittest** – Standard Python testing framework
-- **pytest** – Advanced testing with fixtures and classes
-- **selenium** – Web browser automation
-- **WebDriver (Chrome/Firefox)** – Required for running Selenium tests
-
----
 
 
